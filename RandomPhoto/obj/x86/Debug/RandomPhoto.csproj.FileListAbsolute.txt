@@ -1,0 +1,9 @@
+C:\Users\MyPC\Documents\Visual Studio 2010\Projects\RandomPhoto\RandomPhoto\bin\Debug\RandomPhoto.exe.config
+C:\Users\MyPC\Documents\Visual Studio 2010\Projects\RandomPhoto\RandomPhoto\bin\Debug\RandomPhoto.exe
+C:\Users\MyPC\Documents\Visual Studio 2010\Projects\RandomPhoto\RandomPhoto\bin\Debug\RandomPhoto.pdb
+C:\Users\MyPC\Documents\Visual Studio 2010\Projects\RandomPhoto\RandomPhoto\obj\x86\Debug\RandomPhoto.Properties.Resources.resources
+C:\Users\MyPC\Documents\Visual Studio 2010\Projects\RandomPhoto\RandomPhoto\obj\x86\Debug\RandomPhoto.csproj.GenerateResource.Cache
+C:\Users\MyPC\Documents\Visual Studio 2010\Projects\RandomPhoto\RandomPhoto\obj\x86\Debug\RandomPhoto.exe
+C:\Users\MyPC\Documents\Visual Studio 2010\Projects\RandomPhoto\RandomPhoto\obj\x86\Debug\RandomPhoto.pdb
+C:\Users\MyPC\Documents\Visual Studio 2010\Projects\RandomPhoto\RandomPhoto\obj\x86\Debug\RandomPhoto.frmMain.resources
+C:\Users\MyPC\Documents\Visual Studio 2010\Projects\RandomPhoto\RandomPhoto\obj\x86\Debug\RandomPhoto.csprojResolveAssemblyReference.cache
